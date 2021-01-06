@@ -119,3 +119,8 @@ h3{
     transform: rotate(0);
   }
 }
+@media (max-width: 600px){
+  .container-fluid{
+    padding: 0;
+  }
+}
