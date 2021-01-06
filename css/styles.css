@@ -121,6 +121,6 @@ h3{
 }
 @media (max-width: 600px){
   .container-fluid{
-    padding: 0;
+    padding: 3% 1% 3%;
   }
 }
