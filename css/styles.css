@@ -110,6 +110,31 @@ h3{
 .pricing-column{
   padding: 3% 2%;
 }
+/* call to action */
+#cta{
+  background-color: #ff4c68;
+  color: white;
+  text-align: center;
+}
+.cta-h3{
+  font-size: 3.46rem;
+  font-weight: 900;
+}
+/* footer */
+#footer{
+  background-color: white;
+  text-align: center;
+  padding: 7% 15%;
+}
+.socials{
+  margin-bottom: 10px;
+}
+.footer-icon{
+  margin: 20px 10px;
+  color: #393e46;
+}
+
+
 @media (max-width: 1028px){
   #title{
     text-align: center;
