@@ -1,2 +1,2 @@
 # tindog
-a website example for mobile apps
+a landing page for mobile apps
